@@ -1,0 +1,48 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:#fff;
+    
+}
+#main-header img{
+    padding: 15px; 
+    width: 100px;
+    height: auto;
+    float: left;
+    border-radius: 50%;
+}
+.main-text{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;   
+}
+/*----------------------------------NAVBAR-------------------------------  */
+#navbar{
+    
+}
+
+#navbar ul{
+    padding: 0;
+    list-style: none;
+}
+#navbar li{
+    display: inline; 
+    float: right; 
+    margin: 45px 15px 10px 15px;   
+}
+#navbar a{
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 15px;
+    
+} 
+
+
